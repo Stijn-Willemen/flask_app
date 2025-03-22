@@ -1,0 +1,26 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+
+# Flask stuff
+instance/
+.env
+
+# Virtual environment
+flask/
+
+# Migrations (optional — include if you want to reset them on deploy)
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code settings
+.vscode/
+
+# Mac/Unix junk
+.DS_Store
+
